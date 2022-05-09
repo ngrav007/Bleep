@@ -1,0 +1,5 @@
+make --dry-run --keep-going --print-directory
+make: Entering directory `/Users/nickolasgravel/Documents/CS/C++/Bleep'
+make: `bleep' is up to date.
+make: Leaving directory `/Users/nickolasgravel/Documents/CS/C++/Bleep'
+ 
